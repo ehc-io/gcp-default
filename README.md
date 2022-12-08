@@ -1,2 +1,3 @@
 # gcp-default
-Default Project
+
+## GCE Template Project
